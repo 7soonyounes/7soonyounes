@@ -10,7 +10,9 @@
 <br/><br/>
 - LinkedIn https://www.linkedin.com/in/youness-aithassoune/ 🔗 
 <br/><br/>
-**Languages and Tools:** 
+
+**Certifications:**
+
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/2404fe45-3cb2-49e8-bbec-da464345efd3/linked_in_profile)
 
